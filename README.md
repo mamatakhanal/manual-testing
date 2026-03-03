@@ -1,2 +1,2 @@
 # manual-testing
-Manual test cases and bug reports completed during QA internship
+Manual test cases and bug reports created during QA internship
